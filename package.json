@@ -29,7 +29,8 @@
     "@aws-cdk/aws-s3": "^1.84.0",
     "@aws-cdk/aws-s3-deployment": "^1.94.1",
     "@aws-cdk/core": "^1.32.2",
-    "aws-cdk": "^1.94.1"
+    "aws-cdk": "^1.94.1",
+    "ip": "~1.1.9"
   },
   "homepage": "https://github.com/EPAM-JS-Competency-center/nodejs-aws-cdk-starter#readme"
 }
